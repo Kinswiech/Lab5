@@ -29,7 +29,7 @@ Robiąc zadanie 5 dodałam nową zmienną w Renderze o nazwie MY_API_KEY i przyp
 
 ## Testowanie oraz weryfikacja
 Poprawność działania wdrożonego modelu oraz integrację ze zmienną środowiskową sprawdziłam wywołując produkcyjny endpoint `/predict` z wartością.
-<img width="424" height="93" alt="Zrzut ekranu 2026-06-20 171018" src="https://github.com/user-attachments/assets/223c37e1-43b4-4efd-a74d-a36ae6b14bea" />
+* <img width="424" height="93" alt="Zrzut ekranu 2026-06-20 171018" src="https://github.com/user-attachments/assets/223c37e1-43b4-4efd-a74d-a36ae6b14bea" />
 
 
 ## Wnioski
